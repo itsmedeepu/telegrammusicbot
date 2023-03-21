@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "start": "node index.js",
+    "axios": "^1.3.4",
+    "cheerio": "^1.0.0-rc.12",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "youtube-dl-exec": "^2.4.0",
+    "ytdl-core": "^4.11.2",
+    "ytdl-core-discord": "^1.3.1",
+    "ytsr": "^0.1.11"
+  }
+}
